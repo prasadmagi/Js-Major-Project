@@ -8,10 +8,10 @@ Designed by Prasad Magi
  * HTML
  * CSS
  * Javascript
-
-* Open this project in Google Chrome browser for best view.
-
-* Host-Link - https://number-system-conversion.netlify.app/
+ 
+ Open this project in Google Chrome browser for best view.
+ 
+ Host-Link - https://number-system-conversion.netlify.app/
 
 
 
